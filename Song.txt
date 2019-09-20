@@ -3,5 +3,22 @@ Its hard to carry me
 My beloved was weighed down
 My finger laced to crown
 
-Where he slowly let me drown
+I was a heavy heart to carry
+My feet dragged across the ground
+And he took me to the river
+<<<<<<< HEAD
 
+She is Onashka
+=======
+I'm Shaboz
+>>>>>>> feature
+<<<<<<< HEAD
+
+
+
+
+Attack the world
+
+=======
+Where he slowly let me drown
+>>>>>>> b73036fc1f522c7220f871d3f63bfcb3a9aa4a90
